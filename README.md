@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ravishankartech/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/ravishankartech/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -14,6 +15,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ravishankartech/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/ravishankartech/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
