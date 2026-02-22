@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/ravishankartech/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/ravishankartech/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ravishankartech/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
