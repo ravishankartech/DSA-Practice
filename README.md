@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/ravishankartech/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ravishankartech/DSA-Practice/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/ravishankartech/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/ravishankartech/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ravishankartech/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -49,4 +50,12 @@
 | ------- |
 | [0039-combination-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ravishankartech/DSA-Practice/tree/master/0040-combination-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/ravishankartech/DSA-Practice/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/ravishankartech/DSA-Practice/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
