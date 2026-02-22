@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ravishankartech/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ravishankartech/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/ravishankartech/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ravishankartech/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ravishankartech/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -37,9 +38,11 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/ravishankartech/DSA-Practice/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ravishankartech/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ravishankartech/DSA-Practice/tree/master/0056-merge-intervals) |
 ## Matrix
 |  |
@@ -58,4 +61,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ravishankartech/DSA-Practice/tree/master/0045-jump-game-ii) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ravishankartech/DSA-Practice/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
