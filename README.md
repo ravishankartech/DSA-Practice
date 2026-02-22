@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ravishankartech/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ravishankartech/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ravishankartech/DSA-Practice/tree/master/0040-combination-sum-ii) |
@@ -31,6 +32,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ravishankartech/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ravishankartech/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ravishankartech/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
